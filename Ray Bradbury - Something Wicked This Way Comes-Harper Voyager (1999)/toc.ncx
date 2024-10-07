@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="b73709f7-91fc-4722-980c-97674a8c0f48" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.45)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Something Wicked This Way Comes</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="part1" playOrder="1">
+      <navLabel>
+        <text>Something Wicked This Way Comes</text>
+      </navLabel>
+      <content src="OEBPS/part1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="part2" playOrder="2">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="OEBPS/part2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="part3" playOrder="3">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="OEBPS/part3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="part4" playOrder="4">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="OEBPS/part4.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>HarperCollins</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;h3&gt;&lt;sub&gt;&lt;br&gt;&lt;/sub&gt;&lt;/h3&gt;&lt;div class="align-lt half"&gt; &lt;ul&gt;&lt;li class="isbn"&gt;&lt;sub&gt;ISBN-13: &lt;/sub&gt;&lt;a class="isbn-a"&gt;&lt;sub&gt;9780380977277&lt;/sub&gt;&lt;/a&gt;&lt;/li&gt;   &lt;li class="isbn"&gt;&lt;sub&gt;ISBN: &lt;/sub&gt;&lt;a class="isbn-a"&gt;&lt;sub&gt;0380977273&lt;/sub&gt;&lt;/a&gt;&lt;/li&gt;          &lt;/ul&gt;&lt;/div&gt;&lt;h3&gt;&lt;span class="Apple-style-span" style="font-size: 11px; "&gt;Summary:&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;&lt;sub&gt;A masterpiece of modern Gothic literature, &lt;/sub&gt;&lt;em&gt;&lt;sub&gt;Something Wicked This Way Comes&lt;/sub&gt;&lt;/em&gt;&lt;sub&gt; is the memorable story of two boys, James Nightshade and William Halloway, and the evil that grips their small Midwestern town with the arrival of a "dark carnival" one Autumn midnight. How these two innocents, both age 13, save the souls of the town (as well as their own), makes for compelling reading on timeless themes. What would &lt;/sub&gt;&lt;em&gt;&lt;sub&gt;you&lt;/sub&gt;&lt;/em&gt;&lt;sub&gt; do if your secret wishes could be granted by the mysterious ringmaster Mr. Dark? Bradbury excels in revealing the dark side that exists in us all, teaching us ultimately to celebrate the shadows rather than fear them. In many ways, this is a companion piece to his joyful, nostalgia-drenched __, in which Bradbury presented us with one perfect summer as seen through the eyes of a 12-year-old. In &lt;/sub&gt;&lt;em&gt;&lt;sub&gt;Something Wicked This Way Comes&lt;/sub&gt;&lt;/em&gt;&lt;sub&gt;, he deftly explores the fearsome delights of one perfectly terrifying, unforgettable autumn. &lt;/sub&gt;&lt;em&gt;&lt;sub&gt;--Stanley Wiater&lt;/sub&gt;&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;&lt;sub&gt;From Library Journal&lt;/sub&gt;&lt;/h3&gt;&lt;p&gt;&lt;sub&gt;Something Wicked is Avon's latest installment in its ongoing series of reprints of Bradbury's works in quality yet affordable hardcover editions. Appearing in 1962, this is the story of a diabolical carnival that wreaks havoc on the lives of the people of a small Illinois town, much like the one in which Bradbury grew up. This edition also sports a new afterword by the author. &lt;br&gt;Copyright 1999 Reed Business Information, Inc. &lt;/sub&gt;&lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="Bradbury, Ray" opf:role="aut">Ray Bradbury</dc:creator>
+    <meta name="calibre:timestamp" content="2011-01-27T01:02:02.507000+00:00"/>
+    <dc:title opf:file-as="Something Wicked This Way Comes">Something Wicked This Way Comes</dc:title>
+    <meta name="cover" content="cover1"/>
+    <dc:date>1999-06-01T07:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.7.45) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="ISBN">9780380977277</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b73709f7-91fc-4722-980c-97674a8c0f48</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="OEBPS/part1.xhtml" id="part1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/part2.xhtml" id="part2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/part3.xhtml" id="part3" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/part4.xhtml" id="part4" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/title.xhtml" id="title" media-type="application/xhtml+xml"/>
+    <item href="cover1.jpeg" id="cover1" media-type="image/jpeg"/>
+    <item href="jacket.xhtml" id="calibre_jacket" media-type="application/xhtml+xml"/>
+    <item href="stylesheet1.css" id="css1" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="calibre_jacket"/>
+    <itemref idref="title"/>
+    <itemref idref="part1"/>
+    <itemref idref="part2"/>
+    <itemref idref="part3"/>
+    <itemref idref="part4"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>
